@@ -2,7 +2,7 @@
 
 ADA stake pool things.
 
-<font style="color:red">**use on your own risk**</font>
+**use on your own risk**
 
 ## bin/
 
